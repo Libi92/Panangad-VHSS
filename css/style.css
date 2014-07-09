@@ -1,0 +1,47 @@
+.justp{
+	text-align: justify;
+	font-size: 16px;
+
+}
+.pjust{
+	text-align: justify;
+}
+.fsize16{
+	font-size: 16px;
+	line-height: 28px;
+}
+.colorAsh{
+	color: #676563;
+}
+
+.photocontainer{
+	margin-left: 20%;
+	border: solid;
+	border-width: 10px;
+	border-radius: 10px;
+	border-color: #C0C0C0;
+	width: 200px;
+	background-color: #C0C0C0;
+	text-align: center;
+}
+
+.margn2{
+	margin-left: 10%;
+}
+
+.boldcont{
+	font-weight: bold;
+}
+
+.mngname{
+	font-size: 18px;
+	font-weight: bold;
+	color: #000;
+	margin-top: 10px;
+}
+
+#logo{
+	float: left;
+	height: 60px;
+	margin-left: -10px;
+}
